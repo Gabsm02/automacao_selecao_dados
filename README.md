@@ -37,7 +37,7 @@ Os arquivos devem estar localizados em diretórios específicos conforme definid
    ```
 3. Execute o script:
    ```bash
-   python disponibilidade_bahia.py
+   python index.py
    ```
 4. Insira o caminho completo do arquivo solicitado.
 
